@@ -74,12 +74,13 @@ Used `CategoricalCrossentropy(label_smoothing=0.1)` to prevent overconfident pre
 ---
 
 ## File Structure
+```
 ├── assignment2_cnn.ipynb     # Full notebook with code and analysis
 ├── README.md
 └── models/                   # Saved .keras model checkpoints
-├── resnet50_baseline.keras
-└── resnet50_enhanced.keras
-
+    ├── resnet50_baseline.keras
+    └── resnet50_enhanced.keras
+```
 ---
 
 ## Lessons Learned
